@@ -16,7 +16,7 @@ As a junior data analyst with Cyclistic, I am faced with the problem of providin
 This project enable me practice my skills in data cleaning, analysis and visualization.
 
 ## Data Sourcing
-The data was made available by Motivate International Inc. (a licensed firm). It is a public data downloaded from divvy-tripdata[Click here](https://divvy-tripdata.s3.amazonaws.com/index.html). 
+The data was made available by Motivate International Inc. (a licensed firm). It is a public data downloaded from divvy-tripdata [Click here](https://divvy-tripdata.s3.amazonaws.com/index.html). 
 Motivate International Inc. maintained data-privacy issues by prohibiting the use of riders’ personal identifiable information from the public. 
 
 ## Data Transformation
